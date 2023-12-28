@@ -1,0 +1,13 @@
+C:\Users\NW\source\repos\Taller1\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\NW\source\repos\Taller1\Taller1\bin\Debug\Taller1.exe
+C:\Users\NW\source\repos\Taller1\Taller1\bin\Debug\Taller1.pdb
+C:\Users\NW\source\repos\Taller1\Taller1\bin\Debug\HerenciaPersona.dll
+C:\Users\NW\source\repos\Taller1\Taller1\bin\Debug\HerenciaPersona.pdb
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.AssemblyReference.cache
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.Form1.resources
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.Properties.Resources.resources
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.GenerateResource.cache
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.CopyComplete
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.exe
+C:\Users\NW\source\repos\Taller1\Taller1\obj\Debug\Taller1.pdb
